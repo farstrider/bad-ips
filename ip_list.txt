@@ -1,1 +1,2 @@
 23.148.145.0/24 ; Quick Server Hosting LLC, PA, USA
+128.14.134.0/24 ; Zenlayer Inc, CA, USA
