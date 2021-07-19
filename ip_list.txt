@@ -1,2 +1,3 @@
 23.148.145.0/24 ; Quick Server Hosting LLC, PA, USA
 128.14.134.0/24 ; Zenlayer Inc, CA, USA
+192.241.207.0/24 ; DigitalOcean LLC, San Francisco, USA
