@@ -3,3 +3,4 @@
 192.241.207.0/24 ; DigitalOcean LLC, San Francisco, USA
 143.198.0.0/16 ; DigitalOcean LLC, NY, USA
 216.218.128.0/17 ; Hurricane Electric LLC, CA, USA
+23.129.64.0/24 ; Emerald Onion, WA, USA
