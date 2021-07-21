@@ -5,3 +5,4 @@
 216.218.128.0/17 ; Hurricane Electric LLC, CA, USA
 23.129.64.0/24 ; Emerald Onion, WA, USA
 66.240.192.0/18 ; CariNet Inc, NV, USA
+64.62.128.0/17 ; Hurricane Electric LLC, CA, USA
