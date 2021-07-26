@@ -2,6 +2,7 @@
 128.14.0.0/16 ; Zenlayer Inc, CA, USA
 192.241.128.0/17 ; DigitalOcean LLC, San Francisco, USA
 143.198.0.0/16 ; DigitalOcean LLC, NY, USA
+159.203.0.0/16 ; DigitalOcean LLC, NY, USA
 216.218.128.0/17 ; Hurricane Electric LLC, CA, USA
 23.129.64.0/24 ; Emerald Onion, WA, USA
 66.240.192.0/18 ; CariNet Inc, NV, USA
