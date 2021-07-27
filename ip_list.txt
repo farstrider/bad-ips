@@ -8,3 +8,4 @@
 66.240.192.0/18 ; CariNet Inc, NV, USA
 64.62.128.0/17 ; Hurricane Electric LLC, CA, USA
 208.93.152.0/22 ; Venafi Inc, UT, USA
+192.35.168.0/23; Censys Inc, MI, USA
