@@ -10,4 +10,5 @@
 208.93.152.0/22 ; Venafi Inc, UT, USA
 192.35.168.0/23 ; Censys Inc, MI, USA
 205.185.112.0/20 ; FranTech Solutions, WI, USA
+199.19.224.0/22 ; FranTech Solutions, WY, USA
 192.227.128.0/17 ; ColoCrossing, NY, USA
