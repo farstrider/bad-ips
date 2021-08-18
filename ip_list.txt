@@ -11,4 +11,5 @@
 192.35.168.0/23 ; Censys Inc, MI, USA
 205.185.112.0/20 ; FranTech Solutions, WI, USA
 199.19.224.0/22 ; FranTech Solutions, WY, USA
+209.141.32.0/19 ; FranTech Solutions, WY, USA
 192.227.128.0/17 ; ColoCrossing, NY, USA
