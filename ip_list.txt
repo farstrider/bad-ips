@@ -4,6 +4,7 @@
 143.198.0.0/16 ; DigitalOcean LLC, NY, USA
 159.203.0.0/16 ; DigitalOcean LLC, NY, USA
 216.218.128.0/17 ; Hurricane Electric LLC, CA, USA
+184.104.0.0/15 ; Hurricane Electric LLC, CA, USA
 23.129.64.0/24 ; Emerald Onion, WA, USA
 66.240.192.0/18 ; CariNet Inc, NV, USA
 64.62.128.0/17 ; Hurricane Electric LLC, CA, USA
